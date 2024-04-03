@@ -27,3 +27,14 @@ npm run dev
 ---
 
 # A team of developers
+| № | Devs Name | Work |
+|:-:|:-:|:-:|
+| 1 |  |  |
+| 2 |  |  |
+| 3 |  |  |
+| 4 |  |  |
+| 5 |  |  |
+| 6 |  |  |
+| 7 |  |  |
+| 8 |  |  |
+| 9 | Jasur  | Footer  |
