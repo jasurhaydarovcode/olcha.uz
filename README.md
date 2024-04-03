@@ -1,6 +1,14 @@
-# 🍒 Olcha.uz Clone
+# 🍒 ___Olcha.uz___ Clone
 
-## [View Original Site 👨‍💻](https://olcha.uz/uz)
+### I will tell you about the site, this site is an online store where you can buy all kinds of things you need.
+
+### by Readers of ___IT CITY ACADEMY___ 
+
+## ___Front-end 11___ team
+
+## [View `clone` version 🤩](https://olcha-uz-clone-eta.vercel.app/)
+
+## [View Original version 👨‍💻](https://olcha.uz/uz)
 
 ---
 
