@@ -1793,9 +1793,9 @@ video {
   background-color: rgb(255 0 0 / var(--tw-bg-opacity));
 }
 
-.bg-red-200 {
+.bg-red-700 {
   --tw-bg-opacity: 1;
-  background-color: rgb(254 202 202 / var(--tw-bg-opacity));
+  background-color: rgb(185 28 28 / var(--tw-bg-opacity));
 }
 
 .decoration-slice {
