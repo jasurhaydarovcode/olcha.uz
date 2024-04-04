@@ -4,8 +4,7 @@
   "description": "Olcha.Uz Website clone",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx tailwindcss -i ./src/main.css -o ./src/output.css --watch"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Front End 11",
   "license": "ISC",
@@ -13,5 +12,8 @@
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3"
-  }
+  },
+  "keywords": [
+    "start"
+  ]
 }
