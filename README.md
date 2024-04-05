@@ -16,6 +16,9 @@
 
 ## 1. Package download
 ```bash
+npm init
+```
+```bash
 npm i
 ```
 ## 2. Tailwind easy compiler
