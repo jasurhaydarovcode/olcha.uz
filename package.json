@@ -1,10 +1,11 @@
 {
   "name": "olcha.uz",
   "version": "1.0.0",
-  "description": "Olcha.Uz Website clone",
+  "description": "Olcha.Uz Website Clone",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/main.css -o ./src/output.css --watch"
   },
   "author": "Front End 11",
   "license": "ISC",

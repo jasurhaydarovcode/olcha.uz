@@ -16,6 +16,9 @@
 
 ## 1. Package download
 ```bash
+npm init
+```
+```bash
 npm i
 ```
 ## 2. Tailwind easy compiler
@@ -23,6 +26,10 @@ npm i
 npm run dev
 ```
 ### And go live 😉
+
+---
+
+# Consists of technologies <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px">, <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="42px">.
 
 ---
 

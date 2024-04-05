@@ -1,0 +1,34 @@
+
+
+
+/* TODO:========= Font Raleway ========= */
+
+/* !===Bold=== */
+@font-face {
+    font-family: Raleway-Bold;
+    src: url(./Raleway/Raleway-Bold.ttf);
+}
+
+/* !=== Medium === */
+@font-face {
+    font-family: Raleway-Medium;
+    src: url(./Raleway/Raleway-Medium.ttf);
+}
+
+/* !=== Regular === */
+@font-face {
+    font-family: Raleway-Classic;
+    src: url(./Raleway/Raleway-Bold.ttf);
+}
+
+/* FIXME:============= Font End =============*/
+
+
+/* 
+!!!! How to connect font 
+
+is easy write to text 
+
+font-Family: Raleway-Medium,sans-serif;
+
+*/
