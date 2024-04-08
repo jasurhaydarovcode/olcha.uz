@@ -6,7 +6,7 @@
 
 ### by Readers of ___IT CITY ACADEMY___ 
 
-## ___Front-end 11___ team and ___Alghoritm___
+## ___Front-end 11___ team and ___Algorithm___
 
 ## [View `clone` version 🤩](https://olcha-uz-clone-eta.vercel.app/)
 
