@@ -1,4 +1,4 @@
-# 🍒 ___Olcha.uz___ Clone
+# 🍒 ___Olcha.uz___ 
 
 #### Deadline 10.05.2024 16:00 PM ✅
 
