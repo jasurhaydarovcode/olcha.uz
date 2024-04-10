@@ -18,7 +18,7 @@ ___<h1 align="center">🍒 Olcha.uz</h1>___
 
 ## 1. Package download
 ```bash
-npm init
+npm init --y
 ```
 ```bash
 npm i
