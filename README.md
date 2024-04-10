@@ -48,3 +48,7 @@ npm run dev
 | 7 |  |  |
 | 8 |  |  |
 | 9 | Jasur  | Footer  |
+
+---
+
+<img src="./ReadMe src/olcha - Интернет магазин _ Доставка и рассрочка по Узбекистану - Google Chrome 4_10_2024 11_14_15 PM.png">
