@@ -1,4 +1,4 @@
-# 🍒 ___Olcha.uz___ 
+___<h1 style="text-align: center;">🍒 Olcha.uz</h1>___
 
 #### Deadline 15.04.2024 16:00 PM ✅
 
@@ -14,7 +14,7 @@
 
 ---
 
-## How to install
+## `Project Setup`
 
 ## 1. Package download
 ```bash
@@ -35,7 +35,8 @@ npm run dev
 
 ---
 
-# A team of developers
+<h1 style="text-align: center;">A team of developers</h1>
+
 | № | Devs Name | Work |
 |:-:|:-:|:-:|
 | 1 |  |  |
