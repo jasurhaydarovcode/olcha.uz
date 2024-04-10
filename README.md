@@ -1,4 +1,4 @@
-___<h1 style="text-align: center;">🍒 Olcha.uz</h1>___
+___<h1 align="center">🍒 Olcha.uz</h1>___
 
 #### Deadline 15.04.2024 16:00 PM ✅
 
@@ -35,7 +35,7 @@ npm run dev
 
 ---
 
-<h1 style="text-align: center;">A team of developers</h1>
+<h1 align="center">A team of developers</h1>
 
 | № | Devs Name | Work |
 |:-:|:-:|:-:|
