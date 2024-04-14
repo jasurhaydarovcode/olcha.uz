@@ -2504,6 +2504,38 @@ video {
   padding-top: 2rem;
 }
 
+.pt-12 {
+  padding-top: 3rem;
+}
+
+.pb-12 {
+  padding-bottom: 3rem;
+}
+
+.pr-2 {
+  padding-right: 0.5rem;
+}
+
+.pr-24 {
+  padding-right: 6rem;
+}
+
+.pt-14 {
+  padding-top: 3.5rem;
+}
+
+.pl-24 {
+  padding-left: 6rem;
+}
+
+.pl-28 {
+  padding-left: 7rem;
+}
+
+.pr-28 {
+  padding-right: 7rem;
+}
+
 .text-left {
   text-align: left;
 }
