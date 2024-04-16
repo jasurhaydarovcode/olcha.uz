@@ -1185,6 +1185,14 @@ video {
   width: max-content;
 }
 
+.w-2\/4 {
+  width: 50%;
+}
+
+.w-52 {
+  width: 13rem;
+}
+
 .flex-shrink {
   flex-shrink: 1;
 }
@@ -3544,6 +3552,11 @@ video {
 .hover\:text-rose-700:hover {
   --tw-text-opacity: 1;
   color: rgb(190 18 60 / var(--tw-text-opacity));
+}
+
+.hover\:text-red-500:hover {
+  --tw-text-opacity: 1;
+  color: rgb(239 68 68 / var(--tw-text-opacity));
 }
 
 .before\:hover\:text-center:hover::before {
