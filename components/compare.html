@@ -14,22 +14,54 @@
 </head>
 <body>
     ​‌‌‌<!-- ⁡⁣⁢⁣Сравнение⁡ -->​ 
-    <section class="h-96" >
-        <div class="pl-10 max-sm:pl-5">
+    <section class=" p-10 pt-0" >
+        <div class="">
             <h1 class="text-4xl font-bold max-sm:text-xl max-md:text-2xl max-lg:text-3xl">Сравнение товаров</h1>
         </div>
         <div>
-            <button>Смартфоны 1</button>
+            <button class="bg-black w-32 h-10 text-white rounded-lg mt-5">Смартфоны 1</button>
+            <div class="flex mt-5 gap-5 text-blue-500 text-lg">
+                <div class="flex gap-2">
+                    <i class="bi bi-plus-lg"></i>
+                    <p>Добавить товары</p>
+                </div>
+                <div class="flex gap-2">
+                    <i class="bi bi-trash"></i>
+                    <p>Очистить категорию</p>
+                </div>
+            </div>
         </div>
-        <div>
-            <div>
-                <i class="bi bi-plus-lg"></i>
-                <p>Добавить товары</p>
-            </div>
-            <div>
-                <i class="bi bi-trash"></i>
-                <p>Очистить категорию</p>
-            </div>
+
+        <div class="relative pb-3 pl-10 mt-7">
+            <a class="" href="../components/card-description.html">
+                <img class=" sm:w-52 w-36 lg:w-52 p-5" src="../assets/img/smartPhone.jpg" alt="">
+                <div class="w-36 md:w-52 h-52">
+                    <div class="hover:text-red-600 text-sm md:text-md lg:text-lg xl:text-lg">Xiaomi Redmi 12</div>
+                    <br>
+                    <del class="text-gray-400 py-1 text-sm">2 335 000 сум</del>
+                    <p class="text-red-600 font-bold text-md md:text-md lg:text-lg xl:text-lg py-1">2 013 000 сум</p>
+                    <mark class="rounded-md px-2 py-1 text-xs font-medium">268 000 сум x 12 мес</mark>
+                    <div class="flex gap-2">
+                        <div class="border-2 border-black w-8 h-8 lg:w-10 lg:h-10 text-center rounded-md mt-10 hover:bg-gray-50">
+                            <i class="bi bi-cart2 text-lg lg:text-2xl"></i>
+                        </div>
+                        <div class="border-2 border-red-600 text-red-600 w-26  md:w-32 lg:w-42 xl:w-44 lg:pt-1 text-center rounded-md mt-10 text-md hover:bg-red-50 md:text-md lg:text-lg xl:text-lg">
+                            В рассрочку
+                        </div>
+                    </div>
+                    <div class="bg-red-600 w-12 px-1 text-white rounded-md absolute top-1">
+                        -14%
+                    </div>
+                    <div class="absolute top-1 left-56 grid gap-3">
+                        <div class="p-2 rounded-full w-10 text-center bg-white">
+                            <i class="bi bi-heart text-xl"></i>
+                        </div>
+                        <div class="p-2 bg-white text-gray-100 rounded-full w-10 text-center">
+                            <svg class="w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M1 10h3v10H1V10zM6 0h3v20H6V0zm5 8h3v12h-3V8zm5-4h3v16h-3V4z"/></svg>
+                        </div>
+                    </div>
+                </div>
+            </a>
         </div>
     </section>
         <!-- ====================== Footer ====================== -->
